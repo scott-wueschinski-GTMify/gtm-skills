@@ -1,6 +1,6 @@
 ---
 name: icp-fit-and-buying-readiness
-title: ICP Fit and Buying Readiness
+title: ICP fit and buying readiness
 description: |
   Use this skill when evaluating whether an account is worth pursuing, preparing
   for a discovery meeting, or deciding mid-conversation whether to continue

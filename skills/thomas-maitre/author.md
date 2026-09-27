@@ -2,6 +2,7 @@
 name: Thomas Maitre
 title: "Co-founder, GTM Otto"
 linkedinUrl: "https://www.linkedin.com/in/thomasmaitre/"
+avatarUrl: https://www.gtmskills.com/authors/thomas-maitre.jpg
 companyDomain: gtmotto.com
 email: contact@yourshadowai.com
 ---

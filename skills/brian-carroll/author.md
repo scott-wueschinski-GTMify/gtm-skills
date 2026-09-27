@@ -1,8 +1,8 @@
 ---
 name: Brian Carroll
-avatarUrl: https://avatars.githubusercontent.com/u/57033586?v=4
+avatarUrl: https://www.gtmskills.com/authors/brian-carroll.jpg
 title: CEO, markempa
-linkedinUrl: https://www.linkedin.com/in/briancarroll
+linkedinUrl: https://www.linkedin.com/in/brianjcarroll/
 companyDomain: markempa.com
 email: brian@markempa.com
 ---
