@@ -2,6 +2,7 @@
 name: Chris Rodde
 title: Co-Founder & CMO, Two Spruce Partners
 linkedinUrl: https://www.linkedin.com/in/rodde/
+avatarUrl: https://www.gtmskills.com/authors/chris-rodde.jpg
 companyDomain: twospruce.co
 email: chris@twospruce.co
 ---
